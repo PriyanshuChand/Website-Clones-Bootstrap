@@ -1,0 +1,21 @@
+.search-bar {
+    min-width: 40rem;
+}
+
+.div-1 img {
+    width: 4rem;
+}
+
+.div-3-content img {
+    width: 5rem;
+}
+
+.div-3-card {
+    width: 12rem;
+}
+
+.div-3-img {
+    width: 200px;
+    height: 300px;
+    background-color: aqua;
+}
